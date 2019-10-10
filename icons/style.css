@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'iset-icons';
+  src:  url('fonts/iset-icons.eot?qb22c8');
+  src:  url('fonts/iset-icons.eot?qb22c8#iefix') format('embedded-opentype'),
+    url('fonts/iset-icons.ttf?qb22c8') format('truetype'),
+    url('fonts/iset-icons.woff?qb22c8') format('woff'),
+    url('fonts/iset-icons.svg?qb22c8#iset-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'iset-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-calenda-icon:before {
+  content: "\e91a";
+}
+.icon-author:before {
+  content: "\e91b";
+}
+.icon-arrow-down:before {
+  content: "\e909";
+}
+.icon-arrow-up:before {
+  content: "\e90a";
+}
+.icon-consulting-icon:before {
+  content: "\e90b";
+}
+.icon-drop-icon:before {
+  content: "\e90c";
+}
+.icon-facebook-icon:before {
+  content: "\e90d";
+}
+.icon-instagram-icon:before {
+  content: "\e90e";
+}
+.icon-mail-icon:before {
+  content: "\e90f";
+}
+.icon-offers-icon:before {
+  content: "\e910";
+}
+.icon-offices-icon:before {
+  content: "\e911";
+}
+.icon-phone-icon:before {
+  content: "\e912";
+}
+.icon-phoneinf-icon:before {
+  content: "\e913";
+}
+.icon-report-icon:before {
+  content: "\e914";
+}
+.icon-send-icon:before {
+  content: "\e915";
+}
+.icon-snapchat-icon:before {
+  content: "\e916";
+}
+.icon-track-icon:before {
+  content: "\e917";
+}
+.icon-twitter-icon:before {
+  content: "\e918";
+}
+.icon-youtube-icon:before {
+  content: "\e919";
+}
+.icon-call-icon:before {
+  content: "\e906";
+}
+.icon-whatsapp-icon:before {
+  content: "\e907";
+}
+.icon-write:before {
+  content: "\e908";
+}
+.icon-mail:before {
+  content: "\e900";
+}
+.icon-mobile:before {
+  content: "\e901";
+}
+.icon-office:before {
+  content: "\e902";
+}
+.icon-place:before {
+  content: "\e903";
+}
+.icon-user:before {
+  content: "\e904";
+}
+.icon-warning:before {
+  content: "\e905";
+}
